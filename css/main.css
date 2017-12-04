@@ -58,6 +58,10 @@ footer {
 	color: #3a6890;
 }
 
+.app-img {
+	padding: 5px;
+}
+
 .bold-text {
 	font-weight: 800;
 }
