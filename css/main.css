@@ -32,6 +32,7 @@ footer {
 	display: flex;
 }
 
+/*Gave Div left half of the screen and the other half to div right!*/
 .main-div-left {
 	width: 50%;
 }
@@ -43,7 +44,7 @@ footer {
 .insta-button-home {
 	display: inline-flex;
 }
-
+/*Conainer for everything inside the frame*/
 .frame-img-with-text {
 	background-image: url("../images/frame.png");
 	background-repeat: no-repeat;
