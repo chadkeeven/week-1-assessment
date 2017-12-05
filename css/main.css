@@ -67,7 +67,17 @@ footer {
 }
 
 .login-button {
-	display: inline-flex;
+	display: inline-block;
+	margin: auto 0;
+	margin-left: 50px;
+	color: white;
+	padding: 0 15px; 
+	border-radius: 5px;
+	background-color: #5886af;
+}
+
+.login-contents {
+	display: inline-block;
 }
 
 .appstore-images {
